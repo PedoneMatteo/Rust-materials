@@ -71,7 +71,7 @@ fn buchi(durata: u32, times: Vec<(u32, u32)>) -> Vec<(u32, u32)> {
     schedule
 }
 
-fn main() {
+fn main() { //cargo run cal1.txt cal2.txt 30
 
     let mut bounds: (u32,u32) = (0,0);
     let mut interval: (u32, u32) = (0, 0);
