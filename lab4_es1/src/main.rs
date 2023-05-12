@@ -2,13 +2,6 @@ use itertools::Itertools;
 use std::thread;
 use std::time::Instant;
 
-enum op {
-    Add,
-    Sub,
-    Mul,
-    Div,
-}
-
 fn permute_with_repetition<T: Clone>(nums: &[T], length: usize, current: &mut Vec<T>, result: &mut Vec<Vec<T>>) {
     if current.len() == length {
         result.push(current.clone());
@@ -68,7 +61,7 @@ fn main() {         //iter da un iteratore che torna referenze, into_iter torna 
     let mut tid = 1;
     let mut vec_threads = Vec::new();
 
-    for chunck in perm_nums.chunks(perm_nums.len()/2){
+    for chunck in perm_nums.chunks(perm_nums.len()/3){
         let part_of_perm = chunck.to_owned();
 
         let tidtoshare=tid.clone(); //lo clono prima del thread e non al suo interno perchè altrimenti il thread ne prende possesso e quindi clonarlo non ha senso

@@ -30,7 +30,7 @@ impl<T> CircularBuffer<T> {
             return Err(Error::FullBuffer);
         }
         self.buffer[self.write_index] = Some(_element); //la some mi fa avere un Option con element all'interno
-        self.write_index= ( self.write_index + 1 ) % self.size;
+        self.write_index = ( self.write_index + 1 ) % self.size;
         Ok(())
 
     }
