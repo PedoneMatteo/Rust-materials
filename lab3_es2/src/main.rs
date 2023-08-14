@@ -1,3 +1,5 @@
+use std::iter::Chain;
+
 #[derive(Clone)]
 
 struct MYCycle<I: Clone + Iterator>{
@@ -27,7 +29,10 @@ impl <I: Clone+Iterator> Iterator for MYCycle<I>{
             // Se abbiamo ripetuto abbastanza volte, l'iteratore finisce
             return None;
         }
-        let next_item = self.current.as_mut().unwrap().next();
+        let next_item = self.current
+            .as_mut()
+            .unwrap()
+            .next();
 
         if next_item.is_none() {
             self.current=Some(self.base_iter.clone());
@@ -37,6 +42,8 @@ impl <I: Clone+Iterator> Iterator for MYCycle<I>{
 
         next_item
     }
+
+
 }
 
 
