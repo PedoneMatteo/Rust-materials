@@ -13,67 +13,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56b1016d-ecad-46eb-90a0-51042be39849" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/.idea/untitled1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/Cargo.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/Cargo.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/src/main.rs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/.rustc_info.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/CACHEDIR.TAG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/.cargo-lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/.fingerprint/untitled1-38ad98949eb3dd35/bin-untitled1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/.fingerprint/untitled1-38ad98949eb3dd35/bin-untitled1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/.fingerprint/untitled1-38ad98949eb3dd35/invoked.timestamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/.fingerprint/untitled1-8e49fed83b644699/bin-untitled1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/.fingerprint/untitled1-8e49fed83b644699/bin-untitled1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/.fingerprint/untitled1-8e49fed83b644699/dep-bin-untitled1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/.fingerprint/untitled1-8e49fed83b644699/invoked.timestamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/.fingerprint/untitled1-a905e955f58fc3be/invoked.timestamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/.fingerprint/untitled1-a905e955f58fc3be/test-bin-untitled1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/.fingerprint/untitled1-a905e955f58fc3be/test-bin-untitled1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/deps/untitled1-8e49fed83b644699" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/deps/untitled1-8e49fed83b644699.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/102rrmgmq0bp9nq8.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/1ax2jyjavownd4r9.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/1dv4zi5cq4ylvl2n.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/1erpphi8eognqdjw.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/1jeopys8gdfo4be9.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/1kykpnk8n2aasfdk.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/1oz469yck87l4lo6.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/1uacc3oj6zphlds6.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/22a4sd06z1lnvrc5.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/23hkzi6o814uypqy.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/29hnmgypx7cui1n2.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/2fwjw123vpeelvc4.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/2jao4bu480kyc2vx.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/2vbg0ugnskw7a2az.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/33dy1ry84n8n87zj.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/3bf5vt1h4jojvzm9.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/3egl20pgitqyvh0o.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/3kzfd6mgwqg6nab5.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/3mbt12k8bx6vba7v.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/3vde9udjg2r6pf6c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/3y10cbatwl9undr4.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/4ajwellsrkvgavv6.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/4l1ccjv4d5sqhvat.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/4pz5yzsxo9ah2apc.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/55jil4nactnz7dn9.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/5827zk8dezbhuten.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/5ed4srhgsan11wec.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/6xzmm8t01mw6akp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/dep-graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/f3nt5yvgbwvjcpa.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/fc4naz90iyhaov8.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/h79ndy8aopts2ip.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/p435hsq9lzrltog.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/query-cache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/s7yiebkmy2ml28l.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk-1cdnt3lqik7mu/work-products.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/incremental/untitled1-1hwhfbifptv6s/s-gnrnkibqtx-udf7dk.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/untitled1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MY_exercism/exercism2/target/debug/untitled1.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,22 +34,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
       <option name="command" value="run --package untitled1 --bin untitled1" />
@@ -128,25 +68,10 @@
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
-      <option name="command" value="run" />
-      <option name="emulateTerminal" value="false" />
-      <option name="channel" value="DEFAULT" />
-      <option name="requiredFeatures" value="true" />
-      <option name="allFeatures" value="false" />
-      <option name="withSudo" value="false" />
-      <option name="buildTarget" value="REMOTE" />
-      <option name="backtrace" value="SHORT" />
-      <envs />
-      <option name="isRedirectInput" value="false" />
-      <option name="redirectInputPath" value="" />
-      <method v="2">
-        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -156,7 +81,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692032142701</updated>
-      <workItem from="1692032143825" duration="2050000" />
+      <workItem from="1692032143825" duration="2101000" />
+      <workItem from="1692110914859" duration="33000" />
     </task>
     <servers />
   </component>
