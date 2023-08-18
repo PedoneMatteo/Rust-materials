@@ -8,75 +8,13 @@
       <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
     </configurations>
   </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7fc26e9-160b-4746-9005-18b99946a561" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4_es1/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/.fingerprint/lab4_es1-4dcc502d18524620/output-bin-lab4_es1" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4_es1/target/debug/.fingerprint/lab4_es1-4dcc502d18524620/output-bin-lab4_es1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/deps/lab4_es1-4dcc502d18524620" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4_es1/target/debug/deps/lab4_es1-4dcc502d18524620" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/14g97ovui8yh7p9i.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/14uroeujueaipyw0.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/15349l8atd97nzq8.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/15y1jpwdvmlc0x21.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/16gd2fr2hnitbihe.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/1afyw26ewu29b8u6.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/1l9lzrq4g2nwsy7b.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/1nylgrg6qzw7mdqz.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/1s5acwqeksw7td24.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/273ewepd1xwyrnof.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/28klt61ub1xjajvq.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/29bnu4gjnyzg1k3k.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/2bbqcmeez6yci8cr.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/2cuc7rjuwl77dfpn.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/2ece9fqpb8k6cpqm.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/2h44esclh2vvig89.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/2mdsm5s9e7k1ip9c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/2q321nbt2nprpfam.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/2qe3guejbjx40ezf.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/2qnn5ta56d6ul8oz.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/306slizlwurjautz.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/3h4dexio1x5cc15m.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/3jrq9v5fk5uxuv3m.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/3mmc3cy4iejx0y8l.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/3nrqktcyp3yx5jfk.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/3ri5d6rekvcthc1p.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/3y8rgddtnrir9z78.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/3ydvx1oh4q3ehkd8.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/3zwdohh5fjaghz18.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/49hlwz2ct6r6z0lq.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/49vdi9qbuol9eb3n.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/49vjrvb7dil4hvzf.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/4cgcd8m1l0w69f34.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/4dbaemrt0ibwk8k7.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/4eekfehk7paz9bi7.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/4gl8fsrkscxz8ce9.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/4i8st07ac0l4kf0n.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/4ilvn72smfp69jju.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/4lrwi0kb6eq29bmh.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/4mefz85sivxm5d8r.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/4nxsup66mjj9422x.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/4p74am2ak6jjklho.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/4q87goa5hyxx84zq.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/4t3ljfg28iba2ugu.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/4tng00nfnv9oh8tc.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/4vmcak9y5yvr62sx.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/50kchuhz4f15vk46.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/530vjm28tna2yufx.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/5e7ceuht8vu6rynq.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/8hffxd9kwindssi.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/8zh66cfbumn9zfx.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/9ey094z18v4dfuq.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/dep-graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/doeg8ogl2lazx1t.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/e86hbz6r056ia42.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/ez7yrcu9lz8685g.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/iz1x8msgx26oyua.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/j31qa45phw8dw7j.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/jicrxjjwfxxpz9f.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/qitn9qiv8745kcj.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/query-cache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf-36ebihx4eid4/work-products.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/incremental/lab4_es1-3tgrdib6nxjd2/s-gku0da3ap2-x1nhhf.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4_es1/target/debug/lab4_es1" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4_es1/target/debug/lab4_es1" afterDir="false" />
+    <list default="true" id="476244ab-9603-48e4-adcb-62fb8dec064b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/brutta.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/brutta.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,30 +27,64 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="2PeRuILv2beubHRHMno1EmG0O0t" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="5txbdswt" />
+  </component>
+  <component name="ProjectId" id="2U6hmolLgUsm71MbkXbWOhKB0m7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run --package brutta --bin brutta" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="emulateTerminal" value="false" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c7fc26e9-160b-4746-9005-18b99946a561" name="Changes" comment="" />
-      <created>1683815781244</created>
+      <changelist id="476244ab-9603-48e4-adcb-62fb8dec064b" name="Changes" comment="" />
+      <created>1692266098761</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1683815781244</updated>
-      <workItem from="1683815782408" duration="13000" />
+      <updated>1692266098761</updated>
+      <workItem from="1692266099947" duration="2746000" />
+      <workItem from="1692282370691" duration="3838000" />
+      <workItem from="1692378104812" duration="4454000" />
     </task>
     <servers />
   </component>
