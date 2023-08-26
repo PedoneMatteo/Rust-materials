@@ -100,6 +100,7 @@ fn main() {
     }
     t.join().unwrap();
  */
+    /*
     let (tx,rx) = channel();
     let t1 = thread::spawn(move || {
         for i in 0..10{
@@ -111,6 +112,11 @@ fn main() {
         println!("Ricevuto {i}");
     }
     t1.join().unwrap();
+*/
+    let a= ["ciao".to_string(),"come".to_string(),"stai".to_string()];
+ let b = &a;
+    let c = b[0].clone();
+    println!("c: {}", c);
 
 }
 

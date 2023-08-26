@@ -13,8 +13,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="476244ab-9603-48e4-adcb-62fb8dec064b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/brutta.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/brutta.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/.rustc_info.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +86,7 @@
       <workItem from="1692266099947" duration="2746000" />
       <workItem from="1692282370691" duration="3838000" />
       <workItem from="1692378104812" duration="4454000" />
+      <workItem from="1692982827680" duration="1519000" />
     </task>
     <servers />
   </component>
