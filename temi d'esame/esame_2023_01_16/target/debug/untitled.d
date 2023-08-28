@@ -1,0 +1,1 @@
+/home/matteo/PoliToLocale/PDS_programmazione/github/Rust_mine/temi\ d'esame/esame_2023_01_16/target/debug/untitled: /home/matteo/PoliToLocale/PDS_programmazione/github/Rust_mine/temi\ d'esame/esame_2023_01_16/src/main.rs

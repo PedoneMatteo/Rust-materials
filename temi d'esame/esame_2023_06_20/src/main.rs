@@ -77,12 +77,13 @@ impl<E: Send> MpMcChannel<E>{
     //    già presenti valori nel buffer, questi devono essere ritornati, prima di indicare
     //    che il buffer è stato chiuso; se la chiusura avviene mentre si è in attesa di un
     //    valore, l'attesa si sblocca e viene ritornato None) o se si è verificato un errore interno.
+
     fn recv(&self) -> Option<E>{
         let mut try_lock = self.buffer.lock();
         if try_lock.is_err() {return None}
         let mut lock = try_lock.unwrap();
 
-        try_lock = self.cv.wait_while(lock, |c| { c.0.len()==0 && c.1 = true});
+        try_lock = self.cv.wait_while(lock, |c| { c.0.len()==0 && c.1 == true});
         if try_lock.is_err() {return None}
         lock = try_lock.unwrap();
         if lock.1 == true{
