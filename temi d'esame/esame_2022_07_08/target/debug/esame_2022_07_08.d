@@ -1,0 +1,1 @@
+/home/matteo/PoliToLocale/PDS_programmazione/github/Rust_mine/temi\ d'esame/esame_2022_07_08/target/debug/esame_2022_07_08: /home/matteo/PoliToLocale/PDS_programmazione/github/Rust_mine/temi\ d'esame/esame_2022_07_08/src/main.rs
